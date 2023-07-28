@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Addmovie";
+}
+
+<br />
+<br />
+<br />
+<br />
+
+<form method="post" action="/Admin/Addmovie" enctype="multipart/form-data">
+    <label>Movie Name</label>
+    <input type="text" name="name" />
+    <br />
+    <label>Photo</label>
+    <input type="file" name="photo" />
+    <br />
+    <label>Actors In the movie </label>
+    <input type="text" name="actorsname" />
+    <label>Director of the movie </label>
+    <input type="text" name="directorname" />
+    <br />
+    <input type="submit" value="send" />
+</form>
+

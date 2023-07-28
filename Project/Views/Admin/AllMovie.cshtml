@@ -1,0 +1,19 @@
+﻿@model IList<Project.Models.Movie>
+@{
+    ViewBag.Title = "AllMovie";
+}
+
+<div>
+    @{
+        foreach (var item in Model)
+        {
+            <div class="col-sm-4">
+                <img src="@item.photo" height="120px" />
+                <h3>@item.name</h3>
+                <h4>@item.description</h4>
+                <a><h4>Add Actor</h4></a>
+            </div>
+        }
+    }
+</div>
+

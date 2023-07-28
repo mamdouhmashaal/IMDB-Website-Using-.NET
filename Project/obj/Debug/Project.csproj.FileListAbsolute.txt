@@ -1,0 +1,225 @@
+C:\Users\Eltaysser\Desktop\Project\Project\bin\Project.dll.config
+C:\Users\Eltaysser\Desktop\Project\Project\bin\Project.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\Project.pdb
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\csc.exe
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\csc.rsp
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\csi.exe
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\csi.rsp
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\vbc.exe
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eltaysser\Desktop\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eltaysser\Desktop\Project\Project\bin\EntityFramework.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\System.Web.Helpers.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\System.Web.Mvc.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\System.Web.Razor.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\System.Web.Webpages.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\System.Web.Webpages.Razor.dll
+C:\Users\Eltaysser\Desktop\Project\Project\bin\EntityFramework.xml
+C:\Users\Eltaysser\Desktop\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Eltaysser\Desktop\Project\Project\bin\System.Web.Razor.xml
+C:\Users\Eltaysser\Desktop\Project\Project\bin\System.Web.Webpages.xml
+C:\Users\Eltaysser\Desktop\Project\Project\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Eltaysser\Desktop\Project\Project\bin\System.Web.Webpages.Razor.xml
+C:\Users\Eltaysser\Desktop\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\Eltaysser\Desktop\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\Eltaysser\Desktop\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eltaysser\Desktop\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Eltaysser\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Eltaysser\Desktop\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Eltaysser\Desktop\Project\Project\obj\Debug\Project.dll
+C:\Users\Eltaysser\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\Eltaysser\Desktop\Project\Project\obj\Debug\Project.Migrations.intial.resources
+C:\Users\Eltaysser\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\Project.dll.config
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\Project.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\Project.pdb
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\csc.exe
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\csc.rsp
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\csi.exe
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\csi.rsp
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\vbc.exe
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\EntityFramework.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\System.Web.Helpers.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\System.Web.Mvc.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\System.Web.Razor.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\System.Web.Webpages.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\EntityFramework.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\System.Web.Razor.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\System.Web.Webpages.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\obj\Debug\Project.Migrations.intial.resources
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\obj\Debug\Project.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\Project.dll.config
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\Project.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\Project.pdb
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\csc.exe
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\csc.rsp
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\csi.exe
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\csi.rsp
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\vbc.exe
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\EntityFramework.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\System.Web.Helpers.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\System.Web.Mvc.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\System.Web.Razor.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\System.Web.Webpages.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\EntityFramework.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\System.Web.Razor.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\System.Web.Webpages.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\obj\Debug\Project.Migrations.intial.resources
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\obj\Debug\Project.dll
+C:\Users\Mamdouh Mashaal\Downloads\Telegram Desktop\Project\Project\Project\Project\obj\Debug\Project.pdb
